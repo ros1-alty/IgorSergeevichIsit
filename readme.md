@@ -5,7 +5,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/IgoSergeevichsIsit)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](belyaevis@norvuz.ru)
 
-- 💻 I'm a frontend developer from Russia, working at [Black Mesa IT](https://polauniversity.ru/)
+- 💻 I'm a frontend developer from Russia, working at [PSU](https://polauniversity.ru/)
 - 🌱 Head IT Department [Fedorovsky PSU](https://polaruniversity.ru/en/)
 <details align="left">
   <summary><h2><b>📚 My stack</b></h2></summary>
