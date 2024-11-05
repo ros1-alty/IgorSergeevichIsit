@@ -24,15 +24,15 @@
   <summary><h2><b>⭐GitHub stats</b></h2></summary>
   
   <a  href="https://github.com/IgorSergeevichIsit/github-readme-stats#responsive-card-theme#gh-dark-mode-only">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xp348&theme=dracula&layout=compact&hide_border=true&exclude_repo=intelligent-information-systems&bg_color=00000000" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSergeevichIsit&theme=dracula&layout=compact&hide_border=true&exclude_repo=intelligent-information-systems&bg_color=00000000" />
    <br>
-   <img src="https://github-readme-stats.vercel.app/api?username=xp348&count_private=true&show_icons=true&theme=dracula&hide_border=true&exclude_repo=intelligent-information-systems&bg_color=00000000"  />
+   <img src="https://github-readme-stats.vercel.app/api?username=IgorSergeevichIsit&count_private=true&show_icons=true&theme=dracula&hide_border=true&exclude_repo=intelligent-information-systems&bg_color=00000000"  />
   </a>
    
    <a  href="https://github.com/IgorSergeevichIsit/github-readme-stats#responsive-card-theme#gh-light-mode-only">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xp348&theme=default&layout=compact&hide_border=true&exclude_repo=intelligent-information-systems&bg_color=00000000" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSergeevichIsit&theme=default&layout=compact&hide_border=true&exclude_repo=intelligent-information-systems&bg_color=00000000" />
    <br>
-   <img src="https://github-readme-stats.vercel.app/api?username=xp348&count_private=true&show_icons=true&theme=default&hide_border=true&exclude_repo=intelligent-information-systems&bg_color=00000000"  />
+   <img src="https://github-readme-stats.vercel.app/api?username=IgorSergeevichIsit&count_private=true&show_icons=true&theme=default&hide_border=true&exclude_repo=intelligent-information-systems&bg_color=00000000"  />
 
   </a>
   <br>
