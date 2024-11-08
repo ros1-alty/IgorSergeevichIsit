@@ -53,16 +53,16 @@
 
 ## 📈 My Stats :
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DriverOnLips&theme=dark&background=000000)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Igorsergeevichisit&theme=dark&background=000000)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DriverOnLips&theme=vision-friendly-dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Igorsergeevichisit&theme=vision-friendly-dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DriverOnLips&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Igorsergeevichisit&layout=compact&theme=vision-friendly-dark)
 
-![Profile views](https://komarev.com/ghpvc/?username=DriverOnLips)
+![Profile views](https://komarev.com/ghpvc/?username=Igorsergeevichisit)
 
 ## 📞 My Contacts :
 
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/driver_on_lips)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/Igorsergeevichisit)
 [![Vkontakte](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/driver_on_lips)
-[![Mail.Ru](https://img.shields.io/badge/-Mail.Ru-090909?style=for-the-badge&logo=Mail.Ru&logoColor=FF8C00)](https://e.mail.ru/compose/?to=driver_on_lips@mail.ru)
+[![Mail.Ru](https://img.shields.io/badge/-Mail.Ru-090909?style=for-the-badge&logo=Mail.Ru&logoColor=FF8C00)](https://e.mail.ru/compose/?to=belyaevis@norvuz.ru)
