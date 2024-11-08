@@ -35,7 +35,7 @@
 
 ## 📈 My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=igorsergeevichisit)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=igorsergeevichisit)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Igorsergeevichisit&theme=vision-friendly-dark)
 
