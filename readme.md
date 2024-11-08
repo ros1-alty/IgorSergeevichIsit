@@ -8,14 +8,6 @@
 
 </div>
 
-## 👨‍🎓 About Me :
-
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%20B2AA&lines=Frontend+developer:+js/ts,+react)](https://git.io/typing-svg)
-
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%20B2AA&lines=Studying+programming+at+BMSTU)](https://git.io/typing-svg)
-
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%20B2AA&lines=There+are+no+impossible+tasks!)](https://git.io/typing-svg)
-
 ## 📚 Languages :
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
