@@ -35,7 +35,7 @@
 
 ## 📈 My Stats :
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Igorsergeevichisit&theme=dark&background=000000)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=igorsergeevichisit)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Igorsergeevichisit&theme=vision-friendly-dark)
 
@@ -45,6 +45,6 @@
 
 ## 📞 My Contacts :
 
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/Igorsergeevichisit)
-[![Vkontakte](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/driver_on_lips)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/Igorsergeevichzgu)
+[![Vkontakte](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/belyaevis)
 [![Mail.Ru](https://img.shields.io/badge/-Mail.Ru-090909?style=for-the-badge&logo=Mail.Ru&logoColor=FF8C00)](https://e.mail.ru/compose/?to=belyaevis@norvuz.ru)
