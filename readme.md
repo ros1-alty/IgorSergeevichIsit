@@ -1,55 +1,68 @@
-<h1 align="left">👋 Hello! I'm Igor </h1>
+<div align="center">
 
+# 👋 Hi, my name is Igor
 
-## About me
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/IgoSergeevichsIsit)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](belyaevis@norvuz.ru)
+### I'm a Frontend Developer from Russia 🇷🇺
 
-- 💻 I'm a frontend developer from Russia, working at [PSU](https://polauniversity.ru/)
-- 🌱 Head IT Department [Fedorovsky PSU](https://polaruniversity.ru/en/)
-<details align="left">
-  <summary><h2><b>📚 My stack</b></h2></summary>
-  <p>
-    <h3>Langs</h3>
-    <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts&perline=7" />
-    <h3>Frameworks / Tools</h3>
-    <img src="https://skillicons.dev/icons?i=angular,rxjs,tailwind,docker,git,angularmaterial,react,materialui,vite&perline=7" />
-    <h3>Software</h3>
-    <img src="https://skillicons.dev/icons?i=vscode&perline=7" />
-   
-  </p>
-</details>
+![Header](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RzYndtazdseWw1NnZ5cGhyNGdjYXl1dDkyNjE1a240dWtrNjBvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
 
-<details align="left">
-  <summary><h2><b>⭐GitHub stats</b></h2></summary>
-  
-  <a  href="https://github.com/IgorSergeevichIsit/github-readme-stats#responsive-card-theme#gh-dark-mode-only">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSergeevichIsit&theme=dracula&layout=compact&hide_border=true&exclude_repo=intelligent-information-systems&bg_color=00000000" />
-   <br>
-   <img src="https://github-readme-stats.vercel.app/api?username=IgorSergeevichIsit&count_private=true&show_icons=true&theme=dracula&hide_border=true&exclude_repo=intelligent-information-systems&bg_color=00000000"  />
-  </a>
-   
-   <a  href="https://github.com/IgorSergeevichIsit/github-readme-stats#responsive-card-theme#gh-light-mode-only">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSergeevichIsit&theme=default&layout=compact&hide_border=true&exclude_repo=intelligent-information-systems&bg_color=00000000" />
-   <br>
-   <img src="https://github-readme-stats.vercel.app/api?username=IgorSergeevichIsit&count_private=true&show_icons=true&theme=default&hide_border=true&exclude_repo=intelligent-information-systems&bg_color=00000000"  />
+</div>
 
-  </a>
-  <br>
-  <img src="https://metrics.lecoq.io/" />
-</details>
+## 👨‍🎓 About Me :
 
-<!--
-**IgorSergeevichIsit/IgorSergeevichIsit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%20B2AA&lines=Frontend+developer:+js/ts,+react)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%20B2AA&lines=Studying+programming+at+BMSTU)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%20B2AA&lines=There+are+no+impossible+tasks!)](https://git.io/typing-svg)
+
+## 📚 Languages :
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/c++-black.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Golang](https://img.shields.io/badge/go-blue?style=for-the-badge&logo=go&logoColor=white)
+
+## 🛠 Frameworks, Libraries and Tools :
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-purple.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Redux](https://img.shields.io/badge/MobX-green.svg?style=for-the-badge&logo=MobX&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-floralwhite.svg?style=for-the-badge&logo=vite&logoColor=black)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![Babel](https://img.shields.io/badge/Babel-yellow.svg?style=for-the-badge&logo=Babel&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23323330.svg?style=for-the-badge&logo=npm&logoColor=white)
+
+## 💽 Databases :
+
+![Postgres](https://img.shields.io/badge/postgres-blue.svg?style=for-the-badge&logo=postgresql&logoColor=%2361DAFB)
+![Redis](https://img.shields.io/badge/redis-floralwhite.svg?style=for-the-badge&logo=redis&logoColor=red)
+
+## 📲 My Projects :
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DriverOnLips&repo=kts-gastronaut)](https://github.com/DriverOnLips/kts-gastronaut)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DriverOnLips&repo=Megachat_frontend)](https://github.com/DriverOnLips/Megachat_frontend)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DriverOnLips&repo=vk_kinopoisk)](https://github.com/DriverOnLips/vk_kinopoisk)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=frontend-park-mail-ru&repo=2023_2_OND_team)](https://github.com/frontend-park-mail-ru/2023_2_OND_team)
+
+## 📈 My Stats :
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DriverOnLips&theme=dark&background=000000)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DriverOnLips&theme=vision-friendly-dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DriverOnLips&layout=compact&theme=vision-friendly-dark)
+
+![Profile views](https://komarev.com/ghpvc/?username=DriverOnLips)
+
+## 📞 My Contacts :
+
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/driver_on_lips)
+[![Vkontakte](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/driver_on_lips)
+[![Mail.Ru](https://img.shields.io/badge/-Mail.Ru-090909?style=for-the-badge&logo=Mail.Ru&logoColor=FF8C00)](https://e.mail.ru/compose/?to=driver_on_lips@mail.ru)
