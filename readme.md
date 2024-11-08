@@ -33,16 +33,6 @@
 ![Postgres](https://img.shields.io/badge/postgres-blue.svg?style=for-the-badge&logo=postgresql&logoColor=%2361DAFB)
 ![Redis](https://img.shields.io/badge/redis-floralwhite.svg?style=for-the-badge&logo=redis&logoColor=red)
 
-## 📲 My Projects :
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DriverOnLips&repo=kts-gastronaut)](https://github.com/DriverOnLips/kts-gastronaut)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DriverOnLips&repo=Megachat_frontend)](https://github.com/DriverOnLips/Megachat_frontend)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DriverOnLips&repo=vk_kinopoisk)](https://github.com/DriverOnLips/vk_kinopoisk)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=frontend-park-mail-ru&repo=2023_2_OND_team)](https://github.com/frontend-park-mail-ru/2023_2_OND_team)
-
 ## 📈 My Stats :
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Igorsergeevichisit&theme=dark&background=000000)
